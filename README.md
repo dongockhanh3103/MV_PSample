@@ -1,0 +1,2 @@
+-App em call API bằng REtrofit đơn giản để hiển thị các sản phẩm lên recyclerView.
+-Em có viết lại gọi các func bằng MVP .
